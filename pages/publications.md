@@ -5,10 +5,14 @@ category: publications
 permalink: /publications
 ---
 
-* ***Ekinci, M. A.***, Buhlmann, N. & Kaiser, D. Visual features explain dynamic aesthetic experiences across distinct movie content. Commun Psychol 4, 127 (2026). https://doi.org/10.1038/s44271-026-00531-7
+* ***Ekinci, M. A.***, Buhlmann, N. & Kaiser, D. Visual features explain dynamic aesthetic experiences across distinct movie content. ***Commun Psychol*** 4, 127 (2026). [https://doi.org/10.1038/s44271-026-00531-7](https://doi.org/10.1038/s44271-026-00531-7)
   
-* ***Ekinci, M. A.***, & Kaiser, D. (2026). Shared gaze reflects shared aesthetic experiences. bioRxiv, 2026-01.
+* ***Ekinci, M. A.***, & Kaiser, D. (2026). Shared gaze reflects shared aesthetic experiences. ***BioRxiv***, 2026-01. [https://doi.org/10.64898/2026.01.30.702749](https://doi.org/10.64898/2026.01.30.702749)
 
-* Tanriverdi D., Alashan D., ***Ekinci M.A.*** & Ayhan I. The Effect of Target Motion and Smooth Pursuit Eye Movement on the Visibility of Isoluminant Target Gratings. Oral presentation was presented at the 2021 Vision Sciences Society.
+* D. Alashan, D. Tanriverdi, M. A. Ekinci, and I. Ayhan, “The effects of abutting pattern motion and
+smooth pursuit eye movement on the visibility of low-contrast luminance-modulated target gratings”,
+***Journal of Vision***, vol. 21, no. 9, pp. 2634–2634, 2021.
 
-* Alashan D., Tanriverdi D., ***Ekinci M.A.*** & Ayhan I. The Effects of Abutting Pattern Motion and Smooth Pursuit Eye Movement on the Visibility of Low-Contrast Luminance-Modulated Target Gratings. Oral presentation was presented at the 2021 Vision Sciences Society.
+* D. Tanrıverdi, D. Alashan, M. A. Ekinci, and I. Ayhan, “The effect of target motion and smooth pursuit
+eye movement on the visibility of isoluminant target gratings”, ***Journal of Vision***, vol. 21, no. 9,
+pp. 2619–2619, 2021.
